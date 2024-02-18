@@ -33,7 +33,7 @@ export function SeasonClock() {
   return (
     <div className={`season-clock ${dynClass}`} onClick={onDarkToggle}>
       <h1>{`${month} (${season})`}</h1>
-      <img src={`../assets/img/${season.toLowerCase()}.png`} alt={`${season} icon`} />
+      <img src={`assets/img/${season.toLowerCase()}.png`} alt={`${season} icon`} />
       <h2>{dayName}</h2>
       <p>{`${hours}:${minutes}:${seconds}`}</p>
     </div>
