@@ -1,0 +1,70 @@
+.watcher-app {
+  background-color: rgb(240, 193, 156);
+  font-family: "Times New Roman", Times, serif;
+  padding: 16px;
+  position: relative;
+  text-align: center;
+}
+
+.watcher-app .modal {
+  background-color: brown;
+  border: 1px solid black;
+  border-radius: 8px;
+  color: white;
+  padding: 8px 48px;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.watcher-app h1 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 2.5rem;
+}
+
+.watcher-app h2 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 2rem;
+  font-weight: 500;
+}
+
+.watcher-app button {
+  background-color: rgb(226, 226, 226);
+  border: 1px solid black;
+}
+
+.watcher-app button:hover {
+  background-color: rgb(102, 102, 102);
+}
+
+.watcher-card {
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 8px;
+  display: inline-block;
+  margin: 16px;
+  padding: 16px;
+}
+
+.watcher-card img {
+  width: 128px;
+}
+
+.watcher-info-modal h2 {
+  font-size: 2.5rem;
+}
+
+.watcher-info-modal input {
+  width: 50%;
+  font-size: 1.25rem;
+}
+
+.watcher-info-modal ul {
+  font-size: 1.5rem;
+  padding-left: 0;
+  text-align: left;
+}
+
+.add-watcher-modal form {
+  margin-bottom: 12px;
+}

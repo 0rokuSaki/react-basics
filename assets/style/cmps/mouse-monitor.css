@@ -1,0 +1,28 @@
+.mouse-monitor {
+  background-color: black;
+  border-radius: 8px;
+  color: white;
+  text-align: center;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.mouse-monitor h2 {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 500;
+  margin: 16px;
+}
+
+.mouse-monitor p {
+  font-size: 1.25rem;
+}
+
+.mouse-monitor button {
+  background-color: rgb(228, 228, 228);
+}
+
+.mouse-monitor button:hover {
+  color: black;
+  background-color: rgb(179, 179, 179);
+}

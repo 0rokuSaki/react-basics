@@ -1,0 +1,62 @@
+.season-clock {
+  text-align: center;
+  width: 50%;
+  padding: 0.5rem;
+}
+
+.season-clock h1 {
+  font-size: 3rem;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.season-clock h2 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 2rem;
+}
+
+.season-clock p {
+  font-size: 1.5rem;
+}
+
+.season-clock img {
+  width: 256px;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}
+
+.winter-light {
+  background-color: rgb(93, 167, 241);
+}
+
+.spring-light {
+  background-color: rgb(183, 229, 180);
+}
+
+.summer-light {
+  background-color: rgb(182, 255, 250);
+}
+
+.autumn-light {
+  background-color: rgb(245, 204, 160);
+}
+
+.winter-dark {
+  background-color: rgb(12, 31, 117);
+  color: white;
+}
+
+.spring-dark {
+  background-color: rgb(25, 109, 36);
+  color: white;
+}
+
+.summer-dark {
+  background-color: rgb(70, 97, 252);
+  color: white;
+}
+
+.autumn-dark {
+  background-color: rgb(107, 36, 12);
+  color: white;
+}

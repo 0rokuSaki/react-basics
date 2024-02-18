@@ -1,0 +1,27 @@
+.animal-list {
+  background-color: #a82a2a;
+  color: white;
+  padding: 4px;
+  width: 435px;
+}
+
+.animal-list h1 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 2rem;
+  padding: 12px 0;
+}
+
+.animal-list table, .animal-list td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  font-size: 1.5rem;
+}
+
+.animal-list td {
+  padding: 8px 35px 8px 16px;
+}
+
+.animal-list a {
+  color: rgb(0, 0, 255);
+  text-decoration: underline;
+}
